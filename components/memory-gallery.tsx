@@ -94,23 +94,6 @@ export const MemoryGallery = ({ memories: initialMemories = defaultMemories }: M
               💗
             </div>
           </div>
-
-          {memories.length > 1 && (
-            <div className="flex justify-center gap-2 mt-8">
-              {memories.map((_, index) => (
-                <button
-                  key={index}
-                  onClick={() => setCurrentIndex(index)}
-                  className={`h-2 rounded-full transition-all duration-300 ${
-                    index === currentIndex
-                      ? "w-8 bg-rose-500"
-                      : "w-2 bg-pink-300"
-                  }`}
-                  aria-label={`Go to memory ${index + 1}`}
-                />
-              ))}
-            </div>
-          )}
         </div>
       </div>
     </section>
