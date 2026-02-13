@@ -6,9 +6,9 @@ interface SurpriseSectionProps {
   surpriseMessage?: string;
 }
 
-const defaultSurpriseMessage = `You are my everything, my forever, my always. 
+const defaultSurpriseMessage = `Sherry, you are my everything, my forever, my always. 
 I can't wait to spend the rest of my life making you happy. 
-This is just the beginning of our beautiful journey together. 
+This is just the beginning of our beautiful journey together, Sherry. 
 I love you more than words can express. 💍✨`;
 
 export const SurpriseSection = ({

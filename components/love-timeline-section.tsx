@@ -87,7 +87,7 @@ export const LoveTimelineSection = ({ events = defaultEvents }: LoveTimelineSect
       className="min-h-screen flex flex-col items-center justify-center px-4 py-20 relative bg-black"
     >
       <h2 className="text-4xl md:text-5xl font-handwriting text-transparent bg-clip-text bg-gradient-to-r from-pink-500 via-rose-400 to-red-400 mb-16 text-center">
-        Our Love Story 📖
+        Our Love Story, Sherry 📖
       </h2>
 
       <div className="max-w-4xl w-full relative">

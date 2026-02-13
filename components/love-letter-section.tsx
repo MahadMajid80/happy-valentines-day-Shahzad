@@ -6,13 +6,13 @@ interface LoveLetterSectionProps {
   letter?: string;
 }
 
-const defaultLetter = `My Dearest Love,
+const defaultLetter = `My Dearest Sherry,
 
 As I sit here writing this, my heart is filled with so much love and gratitude for having you in my life. Every day with you feels like a dream come true, and I find myself falling in love with you more and more with each passing moment.
 
-Your smile lights up my world, your kindness touches my soul, and your love completes me in ways I never knew were possible. You are my best friend, my partner, my everything.
+Sherry, your smile lights up my world, your kindness touches my soul, and your love completes me in ways I never knew were possible. You are my best friend, my partner, my everything.
 
-On this special day, I want you to know that you are loved beyond measure. You are cherished, appreciated, and adored more than words can express.
+On this special day, I want you to know that you are loved beyond measure. You are cherished, appreciated, and adored more than words can express, Sherry.
 
 Forever yours,
 Your Love ❤️`;

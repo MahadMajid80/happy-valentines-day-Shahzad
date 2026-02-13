@@ -59,14 +59,15 @@ export const ForeverMessageSection = () => {
         </h2>
 
         <p className="text-2xl md:text-3xl text-rose-600 font-handwriting mb-12 animate-fade-in-up">
-          I love you more than words can say
+          I love you more than words can say, Sherry
         </p>
 
         <div className="text-6xl animate-heart-beat">💕</div>
 
-        <div className="mt-16 space-y-4 text-lg text-gray-700 font-handwriting">
+        <div className="mt-16 space-y-4 text-lg text-white font-handwriting">
           <p>Forever yours,</p>
           <p className="text-2xl text-rose-600">Your Love ❤️</p>
+          <p className="text-xl text-pink-400 mt-4">For Sherry, with all my heart</p>
         </div>
       </div>
     </section>
