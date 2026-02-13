@@ -7,6 +7,9 @@ import { MemoryGallery } from "@/components/memory-gallery";
 import { WhyILoveYouSection } from "@/components/why-i-love-you-section";
 import { SurpriseSection } from "@/components/surprise-section";
 import { ForeverMessageSection } from "@/components/forever-message-section";
+import { LoveTimelineSection } from "@/components/love-timeline-section";
+import { RomanticQuotesSection } from "@/components/romantic-quotes-section";
+import { PromisesSection } from "@/components/promises-section";
 import { MusicToggle } from "@/components/music-toggle";
 import { useHeartAnimation, FloatingHearts } from "@/components/heart-animation";
 
@@ -33,8 +36,11 @@ export default function Home() {
 
       <HeroSection girlfriendName="My Love" />
       <LoveLetterSection />
+      <LoveTimelineSection />
       <MemoryGallery />
+      <RomanticQuotesSection />
       <WhyILoveYouSection />
+      <PromisesSection />
       <SurpriseSection />
       <ForeverMessageSection />
     </main>
